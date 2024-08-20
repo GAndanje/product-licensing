@@ -79,14 +79,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hur2ARDRJi8eJQmAYdcy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kAtm2KoKQH8MLSzoGUS2-43" target="hur2ARDRJi8eJQmAYdcy-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="10" y="420" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="hur2ARDRJi8eJQmAYdcy-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kAtm2KoKQH8MLSzoGUS2-43" target="hur2ARDRJi8eJQmAYdcy-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hur2ARDRJi8eJQmAYdcy-16" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hur2ARDRJi8eJQmAYdcy-15">
-          <mxGeometry x="-0.4242" y="2" relative="1" as="geometry">
-            <mxPoint x="-79" as="offset" />
+        <mxCell id="hur2ARDRJi8eJQmAYdcy-44" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hur2ARDRJi8eJQmAYdcy-42">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kAtm2KoKQH8MLSzoGUS2-43" value="valid card?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -98,19 +96,19 @@
         <mxCell id="hur2ARDRJi8eJQmAYdcy-0" value="create environments&lt;br&gt;&amp;amp; licenses" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="294" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hur2ARDRJi8eJQmAYdcy-1" value="Add isSaaS to SOW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-395" y="20" width="130" height="30" as="geometry" />
+        <mxCell id="hur2ARDRJi8eJQmAYdcy-1" value="Add isSaaS to SOW&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-395" y="15" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hur2ARDRJi8eJQmAYdcy-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hur2ARDRJi8eJQmAYdcy-3" target="kAtm2KoKQH8MLSzoGUS2-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hur2ARDRJi8eJQmAYdcy-3" value="START from&amp;nbsp;&lt;div&gt;Internal ERP&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hur2ARDRJi8eJQmAYdcy-3" value="START from&amp;nbsp;&lt;div&gt;&lt;b&gt;Internal ERP&lt;br&gt;SERVER&lt;/b&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-700" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hur2ARDRJi8eJQmAYdcy-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hur2ARDRJi8eJQmAYdcy-4" target="kAtm2KoKQH8MLSzoGUS2-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hur2ARDRJi8eJQmAYdcy-4" value="START from&amp;nbsp;&lt;div&gt;SaaS middleware&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hur2ARDRJi8eJQmAYdcy-4" value="START from&amp;nbsp;&lt;div&gt;&lt;b&gt;SaaS SERVER&lt;br&gt;&lt;/b&gt;(middleware)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-940" y="298" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hur2ARDRJi8eJQmAYdcy-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hur2ARDRJi8eJQmAYdcy-20" target="hur2ARDRJi8eJQmAYdcy-0">
@@ -118,6 +116,11 @@
         </mxCell>
         <mxCell id="hur2ARDRJi8eJQmAYdcy-20" value="create product eg&lt;br&gt;&amp;nbsp;payroll:tmf&lt;br&gt;accounting:tmf&lt;br&gt;hrms:tmf" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-50" y="270" width="120" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="hur2ARDRJi8eJQmAYdcy-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hur2ARDRJi8eJQmAYdcy-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="hur2ARDRJi8eJQmAYdcy-25" value="add to SaaS queue" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-200" y="410" width="120" height="60" as="geometry" />
