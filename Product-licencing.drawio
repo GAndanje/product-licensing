@@ -63,7 +63,7 @@
         <mxCell id="kAtm2KoKQH8MLSzoGUS2-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kAtm2KoKQH8MLSzoGUS2-28" target="kAtm2KoKQH8MLSzoGUS2-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kAtm2KoKQH8MLSzoGUS2-28" value="register payment method(card*)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="kAtm2KoKQH8MLSzoGUS2-28" value="register &lt;b&gt;payment method&lt;/b&gt;(card*)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-420" y="308" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hur2ARDRJi8eJQmAYdcy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="kAtm2KoKQH8MLSzoGUS2-43" target="kAtm2KoKQH8MLSzoGUS2-28">
@@ -122,7 +122,7 @@
             <mxPoint x="10" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hur2ARDRJi8eJQmAYdcy-25" value="add to SaaS queue" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hur2ARDRJi8eJQmAYdcy-25" value="add to &lt;b&gt;SaaS&lt;/b&gt; queue" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-200" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hur2ARDRJi8eJQmAYdcy-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hur2ARDRJi8eJQmAYdcy-28" target="hur2ARDRJi8eJQmAYdcy-35">
